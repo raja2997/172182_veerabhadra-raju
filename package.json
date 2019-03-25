@@ -1,0 +1,18 @@
+{
+  "name": "myfirst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "export": "^0.1.337",
+    "express": "^4.16.4",
+    "import": "0.0.6",
+    "strftime": "^0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
